@@ -120,7 +120,7 @@ const styles = theme => ({
     position: 'relative',
   },
   textField: {
-    maxWidth: 130,
+    maxWidth: 140,
     marginRight: theme.spacing.unit * 2,
   },
   center:{
